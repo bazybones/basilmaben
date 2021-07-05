@@ -55,7 +55,8 @@
 <br/>
 <br/>
 
-<a href="https://github.com/basilmaben/github-readme-activity-graph"><img alt="Basil Maben's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=basilmaben&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/basilmaben/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=basilmaben&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
 
 <br/>
 <br/>
@@ -70,8 +71,8 @@
 
 </p> -->
 
-## ❤ Views and Followers
+## Views
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=basilmaben">
 </a>
-<a href="https://github.com/basilmaben?tab=followers"><img src="https://img.shields.io/github/followers/basilmaben?label=Followers&style=social" alt="GitHub Badge"></a>
+<!-- <a href="https://github.com/basilmaben?tab=followers"><img src="https://img.shields.io/github/followers/basilmaben?label=Followers&style=social" alt="GitHub Badge"></a> -->
