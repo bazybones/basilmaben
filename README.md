@@ -74,4 +74,5 @@
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=basilmaben">
 </a>
-<!-- <a href="https://github.com/basilmaben?tab=followers"><img src="https://img.shields.io/github/followers/basilmaben?label=Followers&style=social" alt="GitHub Badge"></a> -->
+ <a href="https://github.com/basilmaben?tab=followers"><img src="https://img.shields.io/github/followers/basilmaben?label=Followers&style=social" alt="GitHub Badge"></a>
+
