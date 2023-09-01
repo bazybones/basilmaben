@@ -5,11 +5,8 @@
 
 
 ## About Me
-- 🌱 I’m currently working on improving **Reactjs  <a href="https://reactjs.org/" target="_blank"> <img height = '18px' width  = '18px' src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>**
 
 <!-- - 🌱 I’m currently learning **Data Structures and Algorithms.** -->
-
-- 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **https://github.com/basilmaben**
 
